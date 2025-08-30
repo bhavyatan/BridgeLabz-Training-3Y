@@ -1,5 +1,5 @@
 import java.util.*;
-public class averageNumber {
+public class AverageNumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.println("Enter three numbers:");

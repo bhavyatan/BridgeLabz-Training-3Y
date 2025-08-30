@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class freqCount {
+public class FreqCount {
     public static void main(String[] args) {
         String str="#CIGLA";
         int [] arr= new int[256];

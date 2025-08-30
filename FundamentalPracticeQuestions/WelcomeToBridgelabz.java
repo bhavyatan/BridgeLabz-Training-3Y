@@ -1,4 +1,4 @@
-public class Welcome_to_Bridgelabz {
+public class WelcomeToBridgelabz {
     public static void main(String[] args) {
         System.out.println("Welcome to Bridgelabz");
     }

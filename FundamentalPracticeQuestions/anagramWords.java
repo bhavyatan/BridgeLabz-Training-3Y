@@ -1,5 +1,5 @@
 import java.util.*;
-public class anagramWords {
+public class AnagramWords {
     public static void main(String[] args) {
         String str1="listen";
         String str2="silent";
